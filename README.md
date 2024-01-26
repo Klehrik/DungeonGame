@@ -18,3 +18,5 @@ The font used is a slightly edited version of Theoretical by [somepx](https://so
 ### Controls
 
 LMB - Select actions
+
+- If your attack roll matches the enemy's AC, you win the battle; otherwise, you take damage.
