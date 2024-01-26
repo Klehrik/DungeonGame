@@ -11,6 +11,8 @@ It was instead superseded by [Dice Duel](https://klehrik.itch.io/dice-duel).
 
 All the UI elements were written by me from scratch (under objects/Components), as GameMaker has no real UI support.
 
+The font used is a slightly edited version of Theoretical by [somepx](https://somepx.itch.io/) (support their work [here](https://somepx.itch.io/humble-fonts-tiny)!)
+
 ---
 
 ### Controls
