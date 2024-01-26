@@ -9,7 +9,7 @@ My original idea for a high school project (creating a probability-based game fo
 I dropped it because it wasn't really fun to play, and also would have been a nightmare to analyze statistically.  
 It was instead superseded by [Dice Duel](https://klehrik.itch.io/dice-duel).
 
-All the UI elements were written by me from scratch, as GameMaker has no real UI support.
+All the UI elements were written by me from scratch (under objects/Components), as GameMaker has no real UI support.
 
 ---
 
